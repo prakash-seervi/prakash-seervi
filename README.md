@@ -48,8 +48,8 @@
   <br/>
  
   
-<!-- <a href="https://github.com/prakashseervi">
- <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
+<!-- <a href="https://github.com/prakash-seervi">
+ <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-seervi&theme=dracula&langs_count=4" />
  </a> -->
  <div align="center">
      <a href="https://github.com/prakash-seervi">
