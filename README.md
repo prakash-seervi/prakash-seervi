@@ -3,7 +3,7 @@
  
 <!--  ![Visitor Count](https://profile-counter.glitch.me/prakashseervi/count.svg) -->
 
- <img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprakashseervi1212%2Fhit-counter" />
+ <img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprakash-seervi1212%2Fhit-counter" />
  
  -💪 Currently working as a Software Engineer 2. <br/>
  -💼 6+ years of experience as full stack developer <br/>
@@ -42,7 +42,7 @@
  <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakashseervi&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=prakash-seervi&column=6"/>
   </a>
  <div/>
   <br/>
@@ -52,24 +52,24 @@
  <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
  </a> -->
  <div align="center">
-     <a href="https://github.com/prakashseervi">
-       <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> 
+     <a href="https://github.com/prakash-seervi">
+       <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=prakash-seervi&count_private=true&theme=dracula" /> 
      </a>
- <a href="https://github.com/prakashseervi">
-  <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
+ <a href="https://github.com/prakash-seervi">
+  <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-seervi&theme=dracula" />
   </a>
  <div/>
   <br/>
   
   <div align="center">
    
-  ![Prakash Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&layout=compact&theme=radical)
+  ![Prakash Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-seervi&layout=compact&theme=radical)
 
 <!--     <div/>    -->
   <br/>
    
    
- ![Prakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=prakashseervi&theme=dracula)
+ ![Prakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=prakash-seervi&theme=dracula)
   
   <div/>
  
