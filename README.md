@@ -7,7 +7,7 @@
  
  -💪 Currently working as a Software Engineer 2. <br/>
  -💼 6+ years of experience as full stack developer <br/>
- -📝 Contribution : https://github.com/liquibase/liquibase/pull/2102 |Liquibase 4.6.2 Release
+ -📝 Contribution : https://github.com/liquibase/liquibase/pull/2102 |Liquibase 4.6.2 Release <br/>
  -📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Prakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)](https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)
  
 
